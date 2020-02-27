@@ -1,3 +1,15 @@
 .Navbar {
 
+  nav {
+    background-color: transparent;
+
+    .navbar-brand {
+      color: white !important;
+    }
+
+    .nav-link {
+      font-weight: 400;
+      color: white !important;
+    }
+  }
 }
